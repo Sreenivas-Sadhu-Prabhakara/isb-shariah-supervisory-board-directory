@@ -1,0 +1,14 @@
+apiVersion: v2
+name: isb-shariah-supervisory-board-directory
+description: "BIAN Service Domain: Shariah Supervisory Board Directory (Catalog pattern, Shariah Governance and Compliance)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - islamic-banking
+  - catalog
+annotations:
+  isb/business-area: "Shariah Governance and Compliance"
+  isb/business-domain: "Shariah Governance"
+  isb/asset-type: "SSB Member Mandate"
+  isb/control-record: "SSB Member Mandate Directory Entry"
